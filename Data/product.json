@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "nokia",
+        "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffrankfurt.apollo.olxcdn.com%2Fv1%2Ffiles%2F55tajnsx5nlx-UZ%2Fimage%3Bs%3D1023x1280&imgrefurl=https%3A%2F%2Fwww.olx.uz%2Fd%2Fobyavlenie%2Fnokia-1202-sotiladi-ID38vj5.html&tbnid=PIVjcNn6V6jQpM&vet=12ahUKEwiCu9qE95_9AhXzDBAIHSx-DWAQMygGegUIARDPAQ..i&docid=FVGO-zA5QvPoYM&w=1023&h=1280&q=nokia%201202&ved=2ahUKEwiCu9qE95_9AhXzDBAIHSx-DWAQMygGegUIARDPAQ",
+        "price": 300,
+        "categories": "smartfon"
+    },
+    {
+        "id": 2,
+        "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fkattabozor.s3.eu-central-1.amazonaws.com%2Fri%2F07609ca55fd46817dabb2c2cc98896d002e8ba3c8f6e6e83fd7071ea8bb82393_XfthvV_480l.jpg&imgrefurl=https%3A%2F%2Fwww.kattabozor.uz%2Fproduct%2Fnoutbuk-acer-aspire-a315-54&tbnid=cSeI550deDEd7M&vet=12ahUKEwiU6Zqj95_9AhWCo4sKHVcLBisQMygCegUIARDEAQ..i&docid=zf3MbKUjHjO7gM&w=480&h=480&q=acer&ved=2ahUKEwiU6Zqj95_9AhWCo4sKHVcLBisQMygCegUIARDEAQ",
+        "name": "noutbuk",
+        "price": 300,
+        "categories": "noutbuk"
+    },
+    {
+        "id": 3,
+        "img": "https://www.google.com/aclk?sa=l&ai=DChcSEwiduOa395_9AhVlQJEFHeNdCS0YABAPGgJscg&sig=AOD64_0oYlFcci1Uj5gFuNhKMQ_a3EpR4w&adurl&ctype=5&ved=2ahUKEwj1yt2395_9AhWGxCoKHcN3DKwQvhd6BQgBEJEB",
+        "name": "olg",
+        "price": 300,
+        "categories": "holodilnik"
+    },
+    {
+        "name": "nokia",
+        "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffrankfurt.apollo.olxcdn.com%2Fv1%2Ffiles%2F55tajnsx5nlx-UZ%2Fimage%3Bs%3D1023x1280&imgrefurl=https%3A%2F%2Fwww.olx.uz%2Fd%2Fobyavlenie%2Fnokia-1202-sotiladi-ID38vj5.html&tbnid=PIVjcNn6V6jQpM&vet=12ahUKEwiCu9qE95_9AhXzDBAIHSx-DWAQMygGegUIARDPAQ..i&docid=FVGO-zA5QvPoYM&w=1023&h=1280&q=nokia%201202&ved=2ahUKEwiCu9qE95_9AhXzDBAIHSx-DWAQMygGegUIARDPAQ",
+        "price": 300,
+        "categories": "smartfon",
+        "description": "lefahbvjkbefvkjbh",
+        "id": 6
+    },
+    {
+        "name": "nokia",
+        "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffrankfurt.apollo.olxcdn.com%2Fv1%2Ffiles%2F55tajnsx5nlx-UZ%2Fimage%3Bs%3D1023x1280&imgrefurl=https%3A%2F%2Fwww.olx.uz%2Fd%2Fobyavlenie%2Fnokia-1202-sotiladi-ID38vj5.html&tbnid=PIVjcNn6V6jQpM&vet=12ahUKEwiCu9qE95_9AhXzDBAIHSx-DWAQMygGegUIARDPAQ..i&docid=FVGO-zA5QvPoYM&w=1023&h=1280&q=nokia%201202&ved=2ahUKEwiCu9qE95_9AhXzDBAIHSx-DWAQMygGegUIARDPAQ",
+        "price": 300,
+        "categories": "smartfon",
+        "description": "lefahbvjkbefvkjbh",
+        "id": 7
+    }
+]
